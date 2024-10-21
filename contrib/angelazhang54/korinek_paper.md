@@ -1,0 +1,3 @@
+# Tools/Ideas I Would Consider Using AI For My Project
+
+For my research paper, I could use large language models such as ChatGPT to improve the structure and clarity of my paper. ChatGPT can provide feedback to help me refine my ideas and writing. It can also generate counterarguments, which will improve the depth of my analysis and introduce me to ideas I didn't think of before. ChatGPT can provide insights on improving the logical flow of my arguments or help identify grammar and spelling mistakes to make my paper more clear. ChatGPT is also proficient in writing and debugging code for data analysis, and it can generate tables and visuals using tools such as Numpy, pandas, or Matlab.
