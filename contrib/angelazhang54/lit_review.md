@@ -1,14 +1,14 @@
 # Literature Review 
 
-Credit and debit card payments have been growing rapidly. However, research shows that cash remains a prevalent choice for small-value transactions, despite the convenience and accessibility of credit and debit cards. This literature review traces the evolution of consumer payment preferences and lays the foundation for this paper.
+Although electronic payments have grown rapidly, cash remains a dominant choice for small-value transactions, a focus that this literature review will trace and examine to provide a foundation for the present analysis.
 
-Researchers began examining factors influencing consumer payment choices in the 2000s. Borzekowski et al. {cite:t}Borzekowski2006-kh (2006) provided early insights into consumers' use of debit cards by exploring patterns, preferences, and price responses. Their study laid important groundwork for understanding how consumers were starting to adopt electronic payment methods.
+Researchers began examining factors influencing consumer payment choices in the 2000s. Borzekowski et al. {cite:t}Borzekowski2006-kh (2006) provided early insights into consumers' use of debit cards by exploring patterns, preferences, and price responses. This study laid the groundwork for understanding the early adoption of electronic payments, setting the stage for more nuanced analyses in subsequent years.
 
-In the early 2010s, research increasingly focused on the nuances of consumer payment behavior. Cohen and Rysman {cite:t}Cohen2013-vs (2013) used scanner data to track payment choices for grocery purchases over three years. Their study revealed that households tend to concentrate spending on one or two payment instruments, with cash overwhelmingly preferred for the smallest transactions.
+In the early 2010s, research increasingly focused on the nuances of consumer payment behavior. Cohen and Rysman {cite:t}Cohen2013-vs (2013) used scanner data to track payment choices for grocery purchases over three years. Their study revealed that households tend to concentrate spending on one or two payment instruments, with cash overwhelmingly preferred for the smallest transactions. This study highlights the importance of transaction size in consumer choice.
 
 Several studies in 2014 further expanded our understanding of consumer payment preferences. Wang and Wolman {cite:t}Wang2014-tc analyzed two billion retail transactions, revealing emerging trends and providing insights into the future of currency. Von Kalckreuth et al. {cite:t}Kalckreuth2014-fm suggested that consumers prefer cash for small transactions due to liquidity control needs and the high cognitive cost of processing information. Huynh et al. {cite:t}Huynh2014-sg examined how merchant card acceptance affects consumer payment choices and cash holdings, providing key insights into the demand for cash in relation to card acceptance.
 
-Arango et al. {cite:t}Arango2015-yq (2015) brought attention to the supply side, demonstrating that a lack of merchant card acceptance still significantly drives cash usage, particularly for transactions under $25. This work highlighted the complex interaction between consumer preferences and merchant practices.
+Arango et al. {cite:t}Arango2015-yq (2015) brought attention to the supply side, demonstrating that a lack of merchant card acceptance still significantly drives cash usage, particularly for transactions under $25. This analysis expands on merchant influence, a factor increasingly recognized as shaping consumer preferences.
 
 In 2016, Koulayev et al. {cite:t}Koulayev2016-af developed a structural model explaining the adoption and use of payment instruments by U.S. consumers. Their work offered valuable insights into how consumers decide which payment methods to adopt and use for specific transactions.
 
@@ -16,4 +16,4 @@ The year 2017 saw several important contributions to the field. Stavins {cite:t}
 
 Most recently, Shy {cite:t}Shy2023-vc (2023), in his comprehensive review "Cash Is Alive: How Economists Explain Holding and Use of Cash," synthesized various economic explanations for the continued prevalence of cash and reflected on its persistence in an increasingly digital age.
 
-Despite the increasing availability and convenience of electronic payment methods, cash remains the preferred choice for many consumers in small-value transactions. This persistence underscores the complex interplay of factors — transaction size, personal preferences, and merchant acceptance — that shape consumer payment behavior. As we look to the future, this literature provides a solid foundation for understanding and responding to evolving consumer preferences in a diverse payment landscape.
+In summary, the literature highlights that despite the growth of digital payments, cash persists due to factors such as transaction size, consumer preference, and merchant acceptance. These insights are crucial for understanding shifts in the payment landscape.
